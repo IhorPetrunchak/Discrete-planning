@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\igor7\\source\\repos\\Method of Branches and Boundaries\\Method of Branches and Boundaries\\Method of Branches and Boundaries.csproj": {}
+    "C:\\Users\\igor7\\OneDrive\\Документи\\GitHub\\-Discrete-planning\\Method of Branches and Boundaries\\Method of Branches and Boundaries\\Method of Branches and Boundaries.csproj": {}
   },
   "projects": {
-    "C:\\Users\\igor7\\source\\repos\\Method of Branches and Boundaries\\Method of Branches and Boundaries\\Method of Branches and Boundaries.csproj": {
+    "C:\\Users\\igor7\\OneDrive\\Документи\\GitHub\\-Discrete-planning\\Method of Branches and Boundaries\\Method of Branches and Boundaries\\Method of Branches and Boundaries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\igor7\\source\\repos\\Method of Branches and Boundaries\\Method of Branches and Boundaries\\Method of Branches and Boundaries.csproj",
+        "projectUniqueName": "C:\\Users\\igor7\\OneDrive\\Документи\\GitHub\\-Discrete-planning\\Method of Branches and Boundaries\\Method of Branches and Boundaries\\Method of Branches and Boundaries.csproj",
         "projectName": "Method of Branches and Boundaries",
-        "projectPath": "C:\\Users\\igor7\\source\\repos\\Method of Branches and Boundaries\\Method of Branches and Boundaries\\Method of Branches and Boundaries.csproj",
+        "projectPath": "C:\\Users\\igor7\\OneDrive\\Документи\\GitHub\\-Discrete-planning\\Method of Branches and Boundaries\\Method of Branches and Boundaries\\Method of Branches and Boundaries.csproj",
         "packagesPath": "C:\\Users\\igor7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\igor7\\source\\repos\\Method of Branches and Boundaries\\Method of Branches and Boundaries\\obj\\",
+        "outputPath": "C:\\Users\\igor7\\OneDrive\\Документи\\GitHub\\-Discrete-planning\\Method of Branches and Boundaries\\Method of Branches and Boundaries\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\igor7\\AppData\\Roaming\\NuGet\\NuGet.Config",
