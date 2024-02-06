@@ -1,0 +1,15 @@
+C:\Users\igor7\OneDrive\Документи\GitHub\-Discrete-planning\Method of Branches and Boundaries\Method of Branches and Boundaries\bin\Debug\net7.0\Method of Branches and Boundaries.exe
+C:\Users\igor7\OneDrive\Документи\GitHub\-Discrete-planning\Method of Branches and Boundaries\Method of Branches and Boundaries\bin\Debug\net7.0\Method of Branches and Boundaries.deps.json
+C:\Users\igor7\OneDrive\Документи\GitHub\-Discrete-planning\Method of Branches and Boundaries\Method of Branches and Boundaries\bin\Debug\net7.0\Method of Branches and Boundaries.runtimeconfig.json
+C:\Users\igor7\OneDrive\Документи\GitHub\-Discrete-planning\Method of Branches and Boundaries\Method of Branches and Boundaries\bin\Debug\net7.0\Method of Branches and Boundaries.dll
+C:\Users\igor7\OneDrive\Документи\GitHub\-Discrete-planning\Method of Branches and Boundaries\Method of Branches and Boundaries\bin\Debug\net7.0\Method of Branches and Boundaries.pdb
+C:\Users\igor7\OneDrive\Документи\GitHub\-Discrete-planning\Method of Branches and Boundaries\Method of Branches and Boundaries\obj\Debug\net7.0\Method of Branches and Boundaries.csproj.AssemblyReference.cache
+C:\Users\igor7\OneDrive\Документи\GitHub\-Discrete-planning\Method of Branches and Boundaries\Method of Branches and Boundaries\obj\Debug\net7.0\Method of Branches and Boundaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor7\OneDrive\Документи\GitHub\-Discrete-planning\Method of Branches and Boundaries\Method of Branches and Boundaries\obj\Debug\net7.0\Method of Branches and Boundaries.AssemblyInfoInputs.cache
+C:\Users\igor7\OneDrive\Документи\GitHub\-Discrete-planning\Method of Branches and Boundaries\Method of Branches and Boundaries\obj\Debug\net7.0\Method of Branches and Boundaries.AssemblyInfo.cs
+C:\Users\igor7\OneDrive\Документи\GitHub\-Discrete-planning\Method of Branches and Boundaries\Method of Branches and Boundaries\obj\Debug\net7.0\Method of Branches and Boundaries.csproj.CoreCompileInputs.cache
+C:\Users\igor7\OneDrive\Документи\GitHub\-Discrete-planning\Method of Branches and Boundaries\Method of Branches and Boundaries\obj\Debug\net7.0\Method of Branches and Boundaries.dll
+C:\Users\igor7\OneDrive\Документи\GitHub\-Discrete-planning\Method of Branches and Boundaries\Method of Branches and Boundaries\obj\Debug\net7.0\refint\Method of Branches and Boundaries.dll
+C:\Users\igor7\OneDrive\Документи\GitHub\-Discrete-planning\Method of Branches and Boundaries\Method of Branches and Boundaries\obj\Debug\net7.0\Method of Branches and Boundaries.pdb
+C:\Users\igor7\OneDrive\Документи\GitHub\-Discrete-planning\Method of Branches and Boundaries\Method of Branches and Boundaries\obj\Debug\net7.0\Method of Branches and Boundaries.genruntimeconfig.cache
+C:\Users\igor7\OneDrive\Документи\GitHub\-Discrete-planning\Method of Branches and Boundaries\Method of Branches and Boundaries\obj\Debug\net7.0\ref\Method of Branches and Boundaries.dll
