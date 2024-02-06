@@ -21,8 +21,23 @@ class BranchAndBound
         return currentValue < bestValue;
     }
 
+    // Перевірка, чи можна обрізати гілку
+    static bool CanPrune(int[] values, int[] currentValues, int currentIndex, int bestValue)
+    {
+        int optimisticEstimate = 0;
+        for (int i = currentIndex; i < values.Length; i++)
+        {
+            optimisticEstimate += values[i];
+            if (optimisticEstimate >= bestValue)
+            {
+                return true; // Гілка може бути обрізана
+            }
+        }
+        return false; // Гілку не можна обрізати
+    }
+
     // Метод гілок і меж
-    static void BranchAndBound(int[] values, int[] currentValues, int currentIndex, ref int bestValue, int[] bestValues)
+    static void BranchandBound(int[] values, int[] currentValues, int currentIndex, ref int bestValue, int[] bestValues)
     {
         // Перевірка, чи варто розглядати гілку
         if (currentIndex == values.Length)
@@ -38,12 +53,16 @@ class BranchAndBound
         }
         else
         {
-            // Вибір гілки: включити чи не включити елемент у поточну комбінацію
-            currentValues[currentIndex] = 0;
-            BranchAndBound(values, currentValues, currentIndex + 1, ref bestValue, bestValues);
+            // Перевірка можливості обрізання гілки
+            if (!CanPrune(values, currentValues, currentIndex, bestValue))
+            {
+                // Вибір гілки: включити чи не включити елемент у поточну комбінацію
+                currentValues[currentIndex] = 0;
+                BranchandBound(values, currentValues, currentIndex + 1, ref bestValue, bestValues);
 
-            currentValues[currentIndex] = values[currentIndex];
-            BranchAndBound(values, currentValues, currentIndex + 1, ref bestValue, bestValues);
+                currentValues[currentIndex] = values[currentIndex];
+                BranchandBound(values, currentValues, currentIndex + 1, ref bestValue, bestValues);
+            }
         }
     }
 
@@ -56,7 +75,7 @@ class BranchAndBound
         int bestValue = int.MaxValue;
 
         // Запуск методу гілок і меж
-        BranchAndBound(values, currentValues, 0, ref bestValue, bestValues);
+        BranchandBound(values, currentValues, 0, ref bestValue, bestValues);
 
         // Вивід результату
         Console.WriteLine("Best value: " + bestValue);
